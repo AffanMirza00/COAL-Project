@@ -24,5 +24,3 @@ This is an ATM machine simulation implemented in x86 Assembly language using MAS
 2. Link: `link /SUBSYSTEM:CONSOLE ATMMachine.obj irvine32.lib`
 3. Run: `ATMMachine.exe`
 
-## Screenshots
-[Add screenshots if available]
